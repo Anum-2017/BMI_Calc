@@ -21,7 +21,7 @@ st.markdown("""
 
 st.markdown("<div class='title-container'>⚖️ BMI Calculator</div>", unsafe_allow_html=True)
 
-st.markdown("**BMI (Body Mass Index):**\nBMI is a simple calculation using a person’s weight and height to determine if they are underweight, normal weight, overweight, or obese. It helps assess body fat and overall health risks.", unsafe_allow_html=True)
+st.markdown("**BMI (Body Mass Index):** BMI helps assess body fat and overall health risks based on weight and height.", unsafe_allow_html=True)
 
 st.markdown("### 🔍 Enter Your Details", unsafe_allow_html=True)
 
